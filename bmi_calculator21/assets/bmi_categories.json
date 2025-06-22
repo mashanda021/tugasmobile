@@ -1,0 +1,6 @@
+[
+  { "min": 0, "max": 18.5, "label": "Underweight", "advice": "Eat more!" },
+  { "min": 18.5, "max": 25, "label": "Normal", "advice": "Keep it up!" },
+  { "min": 25, "max": 30, "label": "Overweight", "advice": "Watch your diet!" },
+  { "min": 30, "max": 100, "label": "Obese", "advice": "Exercise more!" }
+]
